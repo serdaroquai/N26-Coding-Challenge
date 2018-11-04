@@ -225,3 +225,8 @@ pickle-email-*.html
 
 # Ignore node_modules
 node_modules/
+
+# Ignore eclipse settings
+.classpath
+.project
+.settings
