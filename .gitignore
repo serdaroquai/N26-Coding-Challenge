@@ -230,3 +230,6 @@ node_modules/
 .classpath
 .project
 .settings
+
+# Ignore n26 tests
+/src/it
